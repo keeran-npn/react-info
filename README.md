@@ -6,3 +6,5 @@ A mini-project to implement React basics.
 - CSS3
 - JS
 - React (JSX)
+
+# Also deployed at: https://fluffy-salmiakki-06ec8a.netlify.app/
