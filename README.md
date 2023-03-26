@@ -7,4 +7,4 @@ A mini-project to implement React basics.
 - JS
 - React (JSX)
 
-# Also deployed at: https://fluffy-salmiakki-06ec8a.netlify.app/
+# Also deployed at: https://react-infor.netlify.app/
